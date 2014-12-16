@@ -1,0 +1,27 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CoffeeScript",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Google Spell Check",
+		"Haml",
+		"Hamlpy",
+		"Jade",
+		"Jasmine",
+		"Jekyll",
+		"JSLint",
+		"KeyboardSpellCheck",
+		"Markdown Preview",
+		"Package Control",
+		"Package Reloader",
+		"PackageResourceViewer",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SideBarEnhancements",
+		"TernJS"
+	]
+}
